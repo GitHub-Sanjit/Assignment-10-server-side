@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Learn Python",
+    "price": 10,
+    "course-feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
+    "description": "This course is aimed at complete beginners who have never programmed before, as well as existing programmers who want to increase their career options by learning Python. The fact is, Python is one of the most popular programming languages in the world – Huge companies like Google use it in mission critical applications like Google Search. And Python is the number one language choice for machine learning, data science and artificial intelligence. To get those high paying jobs you need an expert knowledge of Python, and that’s what you will get from this course. By the end of the course you’ll be able to apply in confidence for Python programming jobs. And yes, this applies even if you have never programmed before. With the right skills which you will learn in this course, you can become employable and valuable in the eyes of future employers."
+  },
+  {
+    "id": 2,
+    "name": "Flutter & Dart",
+    "price": 67,
+    "course-feature": "Flutter - a framework developed by Google - allows you to learn one language (Dart) and build beautiful native mobile apps in no time. Flutter is a SDK providing the tooling to compile Dart code into native code and it also gives you a rich set of pre-built and pre-styled UI elements (so called widgets) which you can use to compose your user interfaces. This course will teach Flutter & Dart from scratch, NO prior knowledge of either of the two is required! And you certainly don't need any Android or iOS development experience since the whole idea behind Flutter is to only learn one language. You'll learn Flutter not only in theory but we'll build a complete, realistic app throughout this course. This app will feature both all the core basics as well as advanced features like using Google Maps, the device camera, adding animations and more!"
+  },
+  {
+    "id": 3,
+    "name": "Go:The Complete Guide",
+    "price": 10,
+    "course-feature": "Go is an open source programming language created by Google.  As one of the fastest growing languages in terms of popularity, its a great time to pick up the basics of Go!. This course is designed to get you up and running as fast as possible with Go.  We'll quickly cover the basics, then dive into some of the more advanced features of the language.  Don't be tricked by other courses that only teach you for-loops and if-statements!  This is the only course on Udemy that will teach you how to use the full power of Go's concurrency model and interface type systems. Go is designed to be easy to pick up, but tough to master.  Through multiple projects, quizzes, and assignments, you'll quickly start to master the language's quirks and oddities.  Go is like any other language - you have to write code to learn it!  This course will give you ample opportunities to strike out on your own and start working on your own programs."
+  },
+  {
+    "id": 4,
+    "name": "Learn Python",
+    "price": 10,
+    "course-feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
+    "description": "This course is aimed at complete beginners who have never programmed before, as well as existing programmers who want to increase their career options by learning Python. The fact is, Python is one of the most popular programming languages in the world – Huge companies like Google use it in mission critical applications like Google Search. And Python is the number one language choice for machine learning, data science and artificial intelligence. To get those high paying jobs you need an expert knowledge of Python, and that’s what you will get from this course. By the end of the course you’ll be able to apply in confidence for Python programming jobs. And yes, this applies even if you have never programmed before. With the right skills which you will learn in this course, you can become employable and valuable in the eyes of future employers."
+  },
+  {
+    "id": 5,
+    "name": "Learn Python",
+    "price": 10,
+    "course-feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
+    "description": "This course is aimed at complete beginners who have never programmed before, as well as existing programmers who want to increase their career options by learning Python. The fact is, Python is one of the most popular programming languages in the world – Huge companies like Google use it in mission critical applications like Google Search. And Python is the number one language choice for machine learning, data science and artificial intelligence. To get those high paying jobs you need an expert knowledge of Python, and that’s what you will get from this course. By the end of the course you’ll be able to apply in confidence for Python programming jobs. And yes, this applies even if you have never programmed before. With the right skills which you will learn in this course, you can become employable and valuable in the eyes of future employers."
+  },
+  {
+    "id": 6,
+    "name": "Learn Python",
+    "price": 10,
+    "course-feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
+    "description": "This course is aimed at complete beginners who have never programmed before, as well as existing programmers who want to increase their career options by learning Python. The fact is, Python is one of the most popular programming languages in the world – Huge companies like Google use it in mission critical applications like Google Search. And Python is the number one language choice for machine learning, data science and artificial intelligence. To get those high paying jobs you need an expert knowledge of Python, and that’s what you will get from this course. By the end of the course you’ll be able to apply in confidence for Python programming jobs. And yes, this applies even if you have never programmed before. With the right skills which you will learn in this course, you can become employable and valuable in the eyes of future employers."
+  }
+]
