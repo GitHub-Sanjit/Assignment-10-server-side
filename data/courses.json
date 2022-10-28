@@ -5,7 +5,7 @@
     "author":"Dr. Angela Yu",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-G7lfHVAusHMoTKbHXHA0RtXGzOfyHx_T-Q&usqp=CAU",
     "price": 74.99,
-    "course-feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
+    "course_feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
     "description": "This course is aimed at complete beginners who have never programmed before, as well as existing programmers who want to increase their career options by learning Python. The fact is, Python is one of the most popular programming languages in the world – Huge companies like Google use it in mission critical applications like Google Search. And Python is the number one language choice for machine learning, data science and artificial intelligence. To get those high paying jobs you need an expert knowledge of Python, and that’s what you will get from this course. By the end of the course you’ll be able to apply in confidence for Python programming jobs. And yes, this applies even if you have never programmed before. With the right skills which you will learn in this course, you can become employable and valuable in the eyes of future employers."
   },
   {
@@ -14,7 +14,7 @@
     "author": "Maximilian Schwarzmuller",
     "img": "https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2020/08/06034931/feat-3-1024x512.png",
     "price": 67.99,
-    "course-feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
+    "course_feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
     "description": "Flutter - a framework developed by Google - allows you to learn one language (Dart) and build beautiful native mobile apps in no time. Flutter is a SDK providing the tooling to compile Dart code into native code and it also gives you a rich set of pre-built and pre-styled UI elements (so called widgets) which you can use to compose your user interfaces. This course will teach Flutter & Dart from scratch, NO prior knowledge of either of the two is required! And you certainly don't need any Android or iOS development experience since the whole idea behind Flutter is to only learn one language. You'll learn Flutter not only in theory but we'll build a complete, realistic app throughout this course. This app will feature both all the core basics as well as advanced features like using Google Maps, the device camera, adding animations and more!"
   },
   {
@@ -23,7 +23,7 @@
     "author": "Stephen Grider",
     "img": "https://www.pngfind.com/pngs/m/537-5372142_arcane-science-lab-go-programming-language-icon-hd.png",
     "price": 89.99,
-    "course-feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
+    "course_feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
     "description": "Go is an open source programming language created by Google.  As one of the fastest growing languages in terms of popularity, its a great time to pick up the basics of Go!. This course is designed to get you up and running as fast as possible with Go.  We'll quickly cover the basics, then dive into some of the more advanced features of the language.  Don't be tricked by other courses that only teach you for-loops and if-statements!  This is the only course on Here that will teach you how to use the full power of Go's concurrency model and interface type systems. Go is designed to be easy to pick up, but tough to master.  Through multiple projects, quizzes, and assignments, you'll quickly start to master the language's quirks and oddities.  Go is like any other language - you have to write code to learn it!  This course will give you ample opportunities to strike out on your own and start working on your own programs."
   },
   {
@@ -32,7 +32,7 @@
     "author": "Stephen Grider",
     "img": "https://cdn.dribbble.com/users/14814/screenshots/16535574/reactlogo_4x.png",
     "price": 84.99,
-    "course-feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
+    "course_feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
     "description": "Congratulations!  You've found the most popular, most complete, and most up-to-date resource online for learning React and Redux!. Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about. The difference between this course and all the others, you will understand the design patterns used by top companies to build massively popular web apps. React is the most popular Javascript library of the last five years, and the job market is still hotter than ever.  Companies large and small can't hire engineers who understand React and Redux fast enough, and salaries for engineers are at an all time high.  It's a great time to learn React!. This course features hundreds of videos with dozens of custom diagrams to help you understand how React and Redux work.  No prior experience with either is necessary. Through tireless, patient explanations and many interesting practical examples, you'll learn the fundamentals of building dynamic and live web apps using React."
   },
   {
@@ -41,7 +41,7 @@
     "author": "Stephen Gride",
     "img": "https://blog.logrocket.com/wp-content/uploads/2022/05/improve-node-dependencies.png",
     "price": 95.99,
-    "course-feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
+    "course_feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
     "description": "Go beyond the basics of Node!  This course will give you the skills needed to become a top Node engineer. Query Caching with Redis? You will learn it.  The Node Event Loop? Included.  Scalable File Upload? Of course!. Node Internals: Here's one of the most common interview questions you'll face when looking for a Node job: Can you explain Node's Event Loop? There are two types of engineers: those who can describe the Event Loop and those who cannot!  This course will ensure that you are incredibly well prepared to answer that most important question.  Besides being critical for interviews, knowledge of the Event Loop will give you a better understanding of how Node works internally.  Many engineers know not to 'block' the Event Loop, but they don't necessarily understand why.  You will be one of the engineers who can clearly articulate the performance profile of Node and its Event Loop. Caching with Redis: We'll also supercharge the performance of database queries by implementing caching backed by Redis.  No previous experience of Redis is required!  Redis is an in-memory data store purpose built for solving caching needs.  By adding caching to your application, you can decrease the amount of time that any given request takes, improving the overall response time of your app."
   },
   {
@@ -50,7 +50,7 @@
     "author": "Jason Fedin",
     "img": "https://www.microtechits.com/images/courses/C-Programming-training-course/C-Programming-training-course.jpg",
     "price": 74.99,
-    "course-feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
+    "course_feature": "Video Lectures,Quizzes,Subtitles,Coding Exercises,Q&A (read and post questions),Supplementary Resources,Download Certificates of Completion,Dark Mode",
     "description": "This course has been optimized to meet the requirements and demands of students who are eager to learn the C Programming Language in the most easy and attractive manner. Including handpicked coding materials and over 100 exercises with full video solutions - this bestseller course is expected to provide you with everything you need to get started (for beginners) as well as provide you with beneficial knowledge if you're working at High-tech industry (especially in the Embedded, Microcontrollers, Cyber, and other domains). Also, it’s considered that by learning C Programming you’re definitely going to make your programming fundamentals VERY STRONG."
   }
 ]
